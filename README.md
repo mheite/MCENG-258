@@ -106,8 +106,8 @@ Due to its lower merit number and reduced capillary performance, methanol suppor
 
 # Repository Structure
 .
-├── MCENG_258_MBH_Project_1.ipynb   # Main simulation notebook
-├── P1_MCENG258_Writeup.docx        # Full technical report
+├── MCENG_258_MBH_Project_1.ipynb # Main simulation notebook
+├── P1_MCENG258_Writeup.docx # Full technical report
 ├── README.md
 └── .gitignore
 
